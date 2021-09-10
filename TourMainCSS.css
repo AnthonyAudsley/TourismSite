@@ -1,0 +1,80 @@
+@font-face {
+  font-family: Font;
+  src: url(Font.ttf);
+}
+@font-face {
+  font-family: Font2;
+  src: url(Font2.ttf);
+}
+
+body{
+  background-color: #2F3138;
+}
+
+#firstdiv{
+border-left: 10px groove #92E551;
+border-right: 10px ridge#92E551;
+border-top: 10px groove #92E551;
+}
+
+#seconddiv{
+border-top: 10px groove #92E551;
+border-bottom: 10px ridge #92E551;
+font-family: Font2;
+font-size: 25px;
+  color: white;
+}
+
+#paragraphs{
+  font-family: Font2;
+  font-size: 20px;
+    color: white;
+}
+
+#thirddiv{
+border-left:  10px groove #92E551;
+border-right: 10px groove #92E551;
+border-top:  10px groove #92E551;
+}
+
+#heading3{
+  font-family: Font2;
+  font-size: 30px;
+    color: white;
+}
+
+#res1{
+  font-family: Font2;
+  font-size: 25px;
+  color: white;
+}
+
+#pic1{
+  border: 10px groove #92E551;
+  height: 300px;
+  width: 325px;
+}
+
+#pic2{
+  border: 10px groove #92E551;
+  height: 250px;
+  width: 350px;
+}
+
+#pic3{
+  border: 10px groove #92E551;
+  height: 250px;
+  width: 350px;
+}
+
+a{
+text-decoration: none;
+font-family: Font;
+font-size: 22px;
+  color: white;
+}
+#top{
+  font-family: Font;
+  font-size: 30px;
+  color: white;
+}
